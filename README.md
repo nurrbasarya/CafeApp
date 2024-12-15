@@ -42,15 +42,6 @@ View ile Repository arasındaki bağlantıyı sağlar.
 
 ---
 
-## 📚 Kullanılan Teknolojiler ve Kütüphaneler
-- **Kotlin**: Uygulamanın geliştirilmesinde kullanılan programlama dili.
-- **Firebase Realtime Database**: Ürün bilgilerini barındırmak için kullanılan veritabanı.
-- **Glide**: Ürün görsellerini yüklemek için kullanılan bir resim yükleme kütüphanesi.
-- **Hilt**: Dependency Injection (bağımlılık enjeksiyonu) için kullanılır.
-- **MVVM Mimari**: Modern uygulama mimarisi kullanılmıştır.
-
----
-
 ## 🛠️ Projenin Yapılandırması
 
 ### Gradle Build Dosyası
