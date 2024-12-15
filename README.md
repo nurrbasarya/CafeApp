@@ -16,3 +16,7 @@ CoffeeShop, bir kahve dükkanının menüsünü listelemek, kategori bazlı filt
 - **MVVM Mimari**: ViewModel ve Repository ile temiz ve sürdürülebilir bir mimari kullanılmıştır.
 
 ---
+
+
+https://github.com/user-attachments/assets/8682fd2d-3514-4f76-b748-fb115c2de1bb
+
