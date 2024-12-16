@@ -1,4 +1,4 @@
-# CoffeeShop Uygulaması
+# Cafe Uygulaması
 
 CoffeeShop, bir kahve dükkanının menüsünü listelemek, kategori bazlı filtreleme yapmak ve ürünlerin detaylarını görüntülemek için geliştirilmiş bir Android uygulamasıdır. Uygulama, Firebase Realtime Database ile entegre edilmiş ve modern MVVM mimarisi ile yapılandırılmıştır.
 
